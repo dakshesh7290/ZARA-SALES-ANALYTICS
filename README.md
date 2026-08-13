@@ -1,4 +1,4 @@
-# Zara Sales Analysis Dashboard
+# Zara Sales Analytics Dashboard
 
 ## Overview
 An end-to-end retail sales analysis project built on a Zara product catalog dataset (252 products), covering data cleaning, SQL querying, Python EDA, and an interactive Power BI dashboard. The goal was to practice the full analyst workflow — from raw data to a shareable dashboard — while working with a real-world, imperfect dataset.
